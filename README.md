@@ -1,6 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=plsusegoogle&label=Profile%20views&color=0e75b6&style=flat" alt="plsusegoogle" /> </p>
+<h1 align="center">Hi 👋, I'm Mikita Zelianeuski</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plsusegoogle" alt="plsusegoogle" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=plsusegoogle&label=Profile%20views&color=0e75b6&style=flat" alt="plsusegoogle" /> </p>
 
 <p align="left"> <a href="https://twitter.com/plsusegoogle" target="blank"><img src="https://img.shields.io/twitter/follow/plsusegoogle?logo=twitter&style=for-the-badge" alt="plsusegoogle" /></a> </p>
 
@@ -20,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plsusegoogle&show_icons=true&locale=en" alt="plsusegoogle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plsusegoogle&" alt="plsusegoogle" /></p>
-
