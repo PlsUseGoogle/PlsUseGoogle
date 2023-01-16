@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mikita Zelianeuski</h1>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plsusegoogle&label=Profile%20views&color=0e75b6&style=flat" alt="plsusegoogle" /> </p>
 
 <p align="left"> <a href="https://twitter.com/plsusegoogle" target="blank"><img src="https://img.shields.io/twitter/follow/plsusegoogle?logo=twitter&style=for-the-badge" alt="plsusegoogle" /></a> </p>
@@ -8,9 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/plsusegoogle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plsusegoogle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mikita zelianeuski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikita zelianeuski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mikita-zelianeuski-0b6106256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikita-zelianeuski-0b6106256" height="30" width="40" /></a>
 <a href="https://instagram.com/malenki_durak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malenki_durak" height="30" width="40" /></a>
-<a href="https://discord.gg/Rossi#3028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rossi#3028" height="30" width="40" /></a>
+<a href="https://discord.gg/306757616569155586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="306757616569155586" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
