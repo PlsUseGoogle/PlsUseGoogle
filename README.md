@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mikita</h1>
+<h1 align="center">Hi, I'm Mikita</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plsusegoogle&label=Profile%20views&color=0e75b6&style=flat" alt="plsusegoogle" /> </p>
 
 <p align="left"> <a href="https://twitter.com/plsusegoogle" target="blank"><img src="https://img.shields.io/twitter/follow/plsusegoogle?logo=twitter&style=for-the-badge" alt="plsusegoogle" /></a> </p>
