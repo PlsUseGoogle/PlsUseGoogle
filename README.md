@@ -8,7 +8,7 @@
 <a href="https://twitter.com/plsusegoogle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="plsusegoogle" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mikita-zelianeuski-0b6106256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikita-zelianeuski-0b6106256" height="30" width="40" /></a>
 <a href="https://instagram.com/malenki_durak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malenki_durak" height="30" width="40" /></a>
-<a href="discordapp.com/users/306757616569155586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="306757616569155586" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/306757616569155586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="306757616569155586" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
